@@ -1,0 +1,21 @@
+{
+  "name": "BattleSea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "node-static": "^0.7.9",
+    "ws": "^3.0.0"
+  }
+}
